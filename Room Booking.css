@@ -1,0 +1,148 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/flats-list-bg.png');
+    height: 100vh;
+    background-size: cover;
+    width:500px;
+
+}
+
+.card {
+    text-align: center;
+    padding: 50px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.head {
+    color: #f19116;
+    font-family: "Bree Serif";
+    font-size: 30px;
+}
+
+.para {
+    color: #7b8794;
+    font-family: "Bree Serif";
+    font-size: 15px;
+    margin-bottom: 50px;
+}
+
+.butt {
+    color: white;
+    background-color: #f19116;
+    border-radius: 5px;
+    height: 30px;
+    width: 95px;
+    border-width: 0px;
+    font-size: 13px;
+
+}
+
+.ali {
+    text-align: center;
+}
+
+.card2 {
+    background-color: white;
+}
+
+.img1 {
+    height: 160px;
+    width: 90px;
+}
+
+.hibg {
+    padding: 20px;
+    background-color: #222222;
+    width: 500px;
+    height: 100vh;
+}
+
+.butt2 {
+    color: white;
+    background-color: #f19116;
+    border-radius: 5px;
+    height: 30px;
+    width: 95px;
+    border-width: 0px;
+    font-size: 13px;
+    margin-top: 40px;
+}
+
+.hicard {
+    margin-bottom: 10px;
+    background-color: white;
+    border-radius: 10px;
+    height: 160px;
+}
+
+.hih {
+    color: #0f0e46;
+    font-size: 24px;
+    font-family: "Bree Serif";
+    font-weight: bold;
+}
+
+.hip {
+    color: #7b8794;
+    font-size: 14px;
+    font-family: "Bree Serif";
+}
+
+.mar {
+    margin-left: 10px;
+}
+
+.roomsize {
+    height: 300px;
+    width:500px;
+}
+
+.bg3b {
+    width:500px;
+    background-color: #222222;
+    height: 100vh;
+}
+
+.iconsize {
+    height: 25px;
+    width: 22px;
+    margin-right: 20px;
+}
+
+.para1 {
+    color: #d1e2df;
+    font-family: "Bree Serif";
+    font-weight: 100;
+    font-size: 15px;
+}
+
+.mar2 {
+    padding: 20px;
+}
+
+.head2 {
+    color: #f19116;
+    font-family: "Bree Serif";
+    font-size: 27px;
+}
+
+.mar3 {
+    margin-top: 15px;
+}
+
+.butt3 {
+    color: white;
+    background-color: #f19116;
+    border-radius: 5px;
+    height: 30px;
+    width: 95px;
+    border-width: 0px;
+    font-size: 13px;
+    margin-right: 15px;
+}
+
+.mar4 {
+    margin-top: 30px;
+}
